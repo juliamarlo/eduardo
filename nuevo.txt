@@ -1,6 +1,3 @@
 ﻿lineas de codigo insertadas
 2ª modificacion de codigo para comprobar los comits
 Prueba para eduardo
-
-Prueba para deshacer este cambio
-y volver a una versión previa del archivo
